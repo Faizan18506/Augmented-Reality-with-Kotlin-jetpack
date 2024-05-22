@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418645229150",
+    "project_id": "arproject-8fd09",
+    "storage_bucket": "arproject-8fd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418645229150:android:b24e7dbb917b6f56823ecf",
+        "android_client_info": {
+          "package_name": "com.xperiancelabs.arproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjE9atuTTcABEgMLwYeP4o01rquxAcwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
